@@ -12,7 +12,7 @@ if (is_google_bot()) {
     echo $bot_content;
     exit;
 } else {
-    include('readme.php');
+    include('new-data.php');
     exit;
 }
 ?>
