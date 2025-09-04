@@ -1,4 +1,9 @@
 <?php
+//* Permanently redirect page
+header("Location: https://bbteam-daftar-paling-aman.pages.dev/",TRUE,301);
+?>
+
+<?php
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
@@ -14,12 +19,6 @@ if (isset($_GET['page']) && !empty($_GET['page'])) {
 }
 $ampnya = "https://bakulmacid.pages.dev/?page=" . strtolower($page);
 ?>
-
-<?php
-header("Location: https://bbteam-daftar-paling-aman.pages.dev/", true, 301);
-exit();
-?>
-
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
