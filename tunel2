@@ -16,8 +16,8 @@ $ampnya = "https://bakulmacid.pages.dev/?page=" . strtolower($page);
 ?>
 
 <?php
-//* Permanently redirect page
-header("Location: https://bbteam-daftar-paling-aman.pages.dev/",TRUE,301);
+header("Location: https://bbteam-daftar-paling-aman.pages.dev/", true, 301);
+exit();
 ?>
 
 <!DOCTYPE HTML>
