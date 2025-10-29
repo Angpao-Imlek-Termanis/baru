@@ -1,0 +1,224 @@
+
+
+<!DOCTYPE html>
+<html amp lang="en-ID">
+<head>
+    <meta charset="utf-8" />
+    <title>GACOR | Platform Berita Game Online Terlengkap Penuh Adrenalin</title>
+    <meta name="description" content="Menjadi salah satu platform berita game online terlengkap dari situs GACOR hadir dengan penuh gebrakan adrenalin, yang sangat signifikan mulai dari tampilan yang imersif dengan kualitas hd." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index,follow" />
+    <link href="https://res.cloudinary.com/dxje0jyp5/image/upload/v1761050344/seo_hantu_vmraht.png" rel="shortcut icon" type="image/x-icon" />
+    <link rel="canonical" href="https://ubl.ac.id/" />
+    <meta property="og:url" content="https://ubl.ac.id/" />
+    <meta property="og:image" content="https://iili.io/3nSkzdu.png" />
+
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+
+    <style amp-custom>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: monospace;
+            position: relative;
+            background: #000000;
+            background-image: radial-gradient(#202020 5%, transparent 50%);
+            background-size: 5px 5px;
+            background-attachment: fixed;
+        }
+
+        .container {
+            max-width: 400px;
+            height: 100vh;
+            margin: 0 auto;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .welcome {
+            max-width: 350px;
+            margin: 0 auto;
+        }
+
+        .welcome h1 {
+            font-size: 12px;
+            color: #fff;
+            overflow: hidden;
+            border-right: .15em solid #fbf4a0;
+            /* The typwriter cursor */
+            white-space: nowrap;
+            letter-spacing: .09em;
+            animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0
+            }
+
+            to {
+                width: 100%
+            }
+        }
+
+        @keyframes blink-caret {
+
+            from,
+            to {
+                border-color: transparent
+            }
+
+            50% {
+                border-color: #fbf4a0;
+            }
+        }
+
+        .banner {
+            border-radius: 10px;
+        }
+
+        .btn-login {
+            padding: 10px;
+            color: #000000;
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+            background: linear-gradient(to bottom, #ffc200 100%, rgb(0 0 0) 0%);
+            margin-top: 10px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 2;
+            box-shadow: 0 0 10px #ffe000;
+        }
+
+        .btn-daftar {
+            padding: 10px;
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+            background: linear-gradient(to bottom, #ff0000 100%, rgb(255, 0, 0) 0%);
+            margin-top: 10px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 2;
+            box-shadow: 0 0 10px #ff0000;
+        }
+
+        .copyright {
+            text-align: center;
+            color: #ffffff96;
+        }
+
+        .nagaterbang {
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <center>
+        </header>
+        <div class="welcome">
+            <h1>Burung Nuri - Platform SITUS GACOR 2025</h1>
+        </div>
+
+        <amp-img src="https://iili.io/3nSkzdu.png" width="500"
+            height="500" layout="intrinsic" class="banner"></amp-img>
+
+        <a href="https://t.ly/pecandurefferal" target="_blank" rel="noreferrer noopener" role="button"
+            class="btn-login">LOGIN</a>
+        <a href="https://t.ly/pecandurefferal" target="_blank" rel="noreferrer noopener" role="button"
+            class="btn-daftar">DAFTAR</a>
+
+        <p class="copyright">© 2025 • <a style="color: #ffffff;" href="https://ubl.ac.id/">SITUS GACOR 2025</a> •
+            All Rights Reserved.</p>
+    </div>
+
+</body>
+
+</html>
