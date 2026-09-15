@@ -105,7 +105,7 @@ if (!$found) {
 
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html>[]
 <html data-theme='default'>
  <head>
   <meta charset='utf-8'>
@@ -138,7 +138,7 @@ if (!$found) {
   <meta content='<?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?>'>
   <meta property="og:title" content="<?php echo $BRANDS; ?> 🫆 <?php echo $TITLE; ?>">
   <meta property="og:description" content="<?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?>">
-  <meta name="keywords" content="<?php echo $BRANDS; ?>, Ratu 11, link server thailand"/>
+  <meta name="keywords" content="PENIDABET, Ratu 11, link server thailand"/>
   <meta name="robots" content="nosnippet">
   <meta property="og:price:amount" content="10.000">
   <meta property="og:price:currency" content="IDR">
@@ -182,11 +182,11 @@ if (!$found) {
     "design__product_id": 357,
     "design__parent_id": "74165272D1V",
     "design__variant_id": "19G79A8C",
-    "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic SITUS <?php echo $BRANDS; ?>\",\"Color\":\"Red\"}",
+    "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic SITUS PENIDABET\",\"Color\":\"Red\"}",
     "design__mock_image": "https://s13.gifyu.com/images/bugXd.jpg",
     "design__url": "https://campus.acadp.org.ar/<?php echo $PAGE; ?",
-    "design__canvas": "SITUS <?php echo $BRANDS; ?>",
-    "design__canvas_canonical_name": "SITUS <?php echo $BRANDS; ?>",
+    "design__canvas": "SITUS PENIDABET",
+    "design__canvas_canonical_name": "SITUS PENIDABET",
     "design__design_title": "<?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?>",
     "design__price": 23.0,
     "design__price_usd": 23.0,
@@ -209,12 +209,12 @@ if (!$found) {
     "ecommerce": {
      "detail": {
       "products": [{
-       "category": "SITUS <?php echo $BRANDS; ?>",
+       "category": "SITUS PENIDABET",
        "parent_id": "74165272D1V",
        "product_id": "357",
        "price": "25.0",
        "price_usd": "25.0",
-       "name": "SITUS <?php echo $BRANDS; ?>",
+       "name": "SITUS PENIDABET",
        "id": "74165272",
        "brand": "Hey Mini",
        "design_color": "Red",
@@ -223,7 +223,7 @@ if (!$found) {
        "design_owner_id": "6075586",
        "design_primary_tag": "SLOT GACOR 2026",
        "design_on_sale": "false",
-       "variant": '{"Gender":"Male Fit","Style":"SITUS <?php echo $BRANDS; ?>","Color":"Red"}',
+       "variant": '{"Gender":"Male Fit","Style":"SITUS PENIDABET","Color":"Red"}',
        "dimension34": '74165272D1V19G79A8C',
        "dimension37": 'false',
        "dimension42": 'https://s13.gifyu.com/images/bugXd.jpg',
@@ -1985,7 +1985,7 @@ body {
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">bapatoto</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">prada178</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">holybet777</a>
-<a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">situs toto <?php echo $BRANDS; ?>.pools</a>
+<a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">situs toto penidabet.pools</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">dewa86</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">maximum88</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">casteltoto</a>
@@ -2751,7 +2751,7 @@ body {
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">kicau788</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">raja132</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">pgsoft1000</a>
-<a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"><?php echo $BRANDS; ?></a>
+<a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">PENIDABET</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">nusantara toto</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">pp hoki</a>
 <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">dewazeus33</a>
@@ -35008,7 +35008,7 @@ body {
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
        <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">
-        <img alt="SITUS <?php echo $BRANDS; ?>" src="https://s13.gifyu.com/images/bugog.png" style="height:100px; width:300px; display:">
+        <img alt="SITUS PENIDABET" src="https://s13.gifyu.com/images/bugog.png" style="height:100px; width:300px; display:">
        </a>
       </div>
      </span>
@@ -35023,7 +35023,7 @@ body {
       <div class='m-header__search-field-container'>
        <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
         <div class='m-header__search-field-placeholder'>
-         <p>Cari kami di Google : <?php echo $BRANDS; ?>
+         <p>Cari kami di Google : PENIDABET
          <p>Situs Gacor Terpercaya 2026
          <p>Deposit Murah Gampang Maxwin
          <p>Rtp Terupdate Live Setiap Hari
@@ -35045,7 +35045,7 @@ body {
                                                                                           </span>" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="" tabIndex="1" />
        <input type="hidden" name="search_submission_data" id="search_submission_data" class="jsAutoCompleteData" autocomplete="off" />
        <input type="hidden" name="search_location" id="search_location" value="header" autocomplete="off" />
-       <input type="hidden" name="canvas" id="canvas" value="SITUS <?php echo $BRANDS; ?>" autocomplete="off" />
+       <input type="hidden" name="canvas" id="canvas" value="SITUS PENIDABET" autocomplete="off" />
        <input type="hidden" name="referred_from_merch" id="referred_from_merch" value="false" autocomplete="off" />
        <input type="hidden" name="artist_search" id="artist_search" class="jsArtistSearchData" autocomplete="off" />
        <div class='m-header__search-close hide jsClearHeaderSearch' data-controller='rudderstack--filter-clicked' data-rudderstack--filter-clicked-location-value='nav-search'>
@@ -35095,53 +35095,53 @@ body {
       <div class='m-explore-nav__tab-content'>
        </span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Lebaran SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Lebaran SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
-        <span class='link__content'><?php echo $BRANDS; ?></span>
+        <span class='link__content'>PENIDABET</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Music SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Music SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Slot Gacor Tengah Malam</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Sport SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Sport SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Maxwin Spektakuler</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Movie SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Movie SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Playtech Slot Gacor</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Vintage SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Vintage SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>WD Super Cepat</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Animal SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Animal SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>Playtech Slot Maxwin</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Television SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Television SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
-        <span class='link__content'><?php echo $BRANDS; ?> DAFTAR</span>
+        <span class='link__content'>PENIDABET DAFTAR</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Funny SITUS <?php echo $BRANDS; ?>" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Funny SITUS PENIDABET" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://s13.gifyu.com/images/bugDB.jpg" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
-        <span class='link__content'><?php echo $BRANDS; ?> RESMI</span>
+        <span class='link__content'>PENIDABET RESMI</span>
        </a>
       </div>
      </div>
@@ -35469,23 +35469,23 @@ body {
   "@type": "Product",
   "@context": "https://schema.org",
   "url": "https://campus.acadp.org.ar/<?php echo $PAGE; ?",
-  "name": "<?php echo $BRANDS; ?>",
+  "name": "PENIDABET",
   "sku": "321256",
   "gtin": "n\/a",
   "description": "<?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?>",
   "image": [{
    "@type": "ImageObject",
    "@context": "https://schema.org",
-   "author": "<?php echo $BRANDS; ?>",
+   "author": "PENIDABET",
    "contentURL": "https://s13.gifyu.com/images/bugXd.jpg",
    "description": "<?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?>",
    "thumbnail": "https://s13.gifyu.com/images/bugXd.jpg"
   }],
-  "category": "<?php echo $BRANDS; ?> > SITUS <?php echo $BRANDS; ?> > SLOT GACOR 2026",
+  "category": "PENIDABET > SITUS PENIDABET > SLOT GACOR 2026",
   "brand": {
    "@type": "Brand",
    "@context": "https://schema.org",
-   "name": "<?php echo $BRANDS; ?>"
+   "name": "PENIDABET"
   },
   "logo": "https://s13.gifyu.com/images/bugXd.jpg",
   "aggregateRating": {
@@ -35516,7 +35516,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2025-08-27",
-   "reviewBody": "<?php echo $BRANDS; ?> benar-benar membuat login dan manajemen akun Clerk YouDown jadi lebih mudah. Fitur unggulannya cepat, aman, dan tampilan modern membuat saya nyaman setiap kali menggunakan platform ini.",
+   "reviewBody": "PENIDABET benar-benar membuat login dan manajemen akun Clerk YouDown jadi lebih mudah. Fitur unggulannya cepat, aman, dan tampilan modern membuat saya nyaman setiap kali menggunakan platform ini.",
    "author": {
     "@type": "Person",
     "name": "Mas Mueng"
@@ -35529,7 +35529,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2025-08-28",
-   "reviewBody": "Sejak pakai Link Alternatif <?php echo $BRANDS; ?>, saya bisa langsung mengelola akun digital dengan mudah tanpa ribet. Semua data akurat dan update real-time, sangat membantu untuk kebutuhan profesional saya.",
+   "reviewBody": "Sejak pakai Link Alternatif PENIDABET, saya bisa langsung mengelola akun digital dengan mudah tanpa ribet. Semua data akurat dan update real-time, sangat membantu untuk kebutuhan profesional saya.",
    "author": {
     "@type": "Person",
     "name": "Johan"
@@ -35542,7 +35542,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2025-01-20",
-   "reviewBody": "<?php echo $BRANDS; ?> sangat ramah untuk pemula. Bahkan tanpa pengalaman teknis, saya bisa login dan mengelola akun YouDown dengan lancar. Ini platform unggulan yang patut dicoba!",
+   "reviewBody": "PENIDABET sangat ramah untuk pemula. Bahkan tanpa pengalaman teknis, saya bisa login dan mengelola akun YouDown dengan lancar. Ini platform unggulan yang patut dicoba!",
    "author": {
     "@type": "Person",
     "name": "Hasiholan"
@@ -35555,7 +35555,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2025-01-20",
-   "reviewBody": "Keamanan <?php echo $BRANDS; ?> benar-benar terasa. Setiap login dan aktivitas manajemen akun terlindungi, sehingga saya bisa fokus bekerja tanpa khawatir.",
+   "reviewBody": "Keamanan PENIDABET benar-benar terasa. Setiap login dan aktivitas manajemen akun terlindungi, sehingga saya bisa fokus bekerja tanpa khawatir.",
    "author": {
     "@type": "Person",
     "name": "Vermalion"
@@ -35568,7 +35568,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2025-01-20",
-   "reviewBody": "Platform <?php echo $BRANDS; ?> cepat dan stabil. Semua fitur unggulan berjalan mulus dan membantu saya dalam mengelola akun digital setiap hari.",
+   "reviewBody": "Platform PENIDABET cepat dan stabil. Semua fitur unggulan berjalan mulus dan membantu saya dalam mengelola akun digital setiap hari.",
    "author": {
     "@type": "Person",
     "name": "Farhan"
@@ -35582,7 +35582,7 @@ body {
     "bestRating": 5
    },
    "datePublished": "2024-12-07",
-   "reviewBody": "<?php echo $BRANDS; ?> adalah solusi modern untuk login dan manajemen akun Clerk YouDown. Data selalu update real-time, tampilan user-friendly, dan terpercaya.",
+   "reviewBody": "PENIDABET adalah solusi modern untuk login dan manajemen akun Clerk YouDown. Data selalu update real-time, tampilan user-friendly, dan terpercaya.",
    "author": {
     "@type": "Person",
     "name": "Cipung"
@@ -35597,42 +35597,42 @@ body {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa itu Link Alternatif <?php echo $BRANDS; ?>?",
+      "name": "Apa itu Link Alternatif PENIDABET?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Link Alternatif <?php echo $BRANDS; ?> adalah akses resmi untuk login dan manajemen akun Clerk YouDown dengan sistem modern, cepat, dan aman."
+        "text": "Link Alternatif PENIDABET adalah akses resmi untuk login dan manajemen akun Clerk YouDown dengan sistem modern, cepat, dan aman."
       }
     },
     {
       "@type": "Question",
-      "name": "Bagaimana cara <?php echo $BRANDS; ?> memastikan WD super cepat pada Playtech Slot Gacor?",
+      "name": "Bagaimana cara PENIDABET memastikan WD super cepat pada Playtech Slot Gacor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<?php echo $BRANDS; ?> menawarkan keamanan data, kecepatan akses, serta fitur manajemen akun unggulan yang mudah digunakan."
+        "text": "PENIDABET menawarkan keamanan data, kecepatan akses, serta fitur manajemen akun unggulan yang mudah digunakan."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah <?php echo $BRANDS; ?> aman digunakan?",
+      "name": "Apakah PENIDABET aman digunakan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya, <?php echo $BRANDS; ?> menggunakan sistem modern dari YouDown untuk memastikan setiap aktivitas login dan manajemen akun aman."
+        "text": "Ya, PENIDABET menggunakan sistem modern dari YouDown untuk memastikan setiap aktivitas login dan manajemen akun aman."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah <?php echo $BRANDS; ?> cocok untuk pemula?",
+      "name": "Apakah PENIDABET cocok untuk pemula?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sangat cocok, karena tampilan <?php echo $BRANDS; ?> sederhana dan mudah dipahami sehingga pemula pun bisa langsung mengelola akun mereka."
+        "text": "Sangat cocok, karena tampilan PENIDABET sederhana dan mudah dipahami sehingga pemula pun bisa langsung mengelola akun mereka."
       }
     },
     {
       "@type": "Question",
-      "name": "Bagaimana cara mengakses Link Alternatif <?php echo $BRANDS; ?>?",
+      "name": "Bagaimana cara mengakses Link Alternatif PENIDABET?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cukup gunakan link resmi <?php echo $BRANDS; ?> untuk langsung login ke Clerk YouDown dan mulai mengelola akun digital Anda dengan mudah."
+        "text": "Cukup gunakan link resmi PENIDABET untuk langsung login ke Clerk YouDown dan mulai mengelola akun digital Anda dengan mudah."
       }
     }
   ]
@@ -35645,12 +35645,12 @@ body {
   "itemListElement": [{
    "@type": "ListItem",
    "position": 1,
-   "name": "<?php echo $BRANDS; ?>",
+   "name": "PENIDABET",
    "item": "https://campus.acadp.org.ar/<?php echo $PAGE; ?"
   }, {
    "@type": "ListItem",
    "position": 2,
-   "name": "SITUS <?php echo $BRANDS; ?>",
+   "name": "SITUS PENIDABET",
    "item": "https://campus.acadp.org.ar/<?php echo $PAGE; ?"
   }, {
    "@type": "ListItem",
@@ -35660,12 +35660,12 @@ body {
   }, {
    "@type": "ListItem",
    "position": 4,
-   "name": "<?php echo $BRANDS; ?> RESMI",
+   "name": "PENIDABET RESMI",
    "item": "https://campus.acadp.org.ar/<?php echo $PAGE; ?"
   }, {
    "@type": "ListItem",
    "position": 5,
-   "name": "<?php echo $BRANDS; ?> DAFTAR",
+   "name": "PENIDABET DAFTAR",
    "item": "https://campus.acadp.org.ar/<?php echo $PAGE; ?"
   }]
  }
@@ -35680,7 +35680,7 @@ body {
         <div class='m-design__content'>
          <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp'>
           <div class='m-design-details__title'>
-           <h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - SITUS <?php echo $BRANDS; ?>'><?php echo $BRANDS; ?> 🫆 <?php echo $TITLE; ?></h1>
+           <h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - SITUS PENIDABET'><?php echo $BRANDS; ?> 🫆 <?php echo $TITLE; ?></h1>
            <div class='m-design__prices'>
             <span class='m-design__price m-design__price--sale jsProductSalePrice'> $3 </span>
             <span class='m-design__price m-design__price--regular jsProductRegularPrice'> IDR 25.000 </span>
@@ -36537,12 +36537,12 @@ body {
 </style>
 <div class="info-box-kaisar">
     <div class="info-header-kaisar">
-        INFORMASI LENGKAP <?php echo $BRANDS; ?>
+        INFORMASI LENGKAP PENIDABET
     </div>
     
     <div class="info-row-kaisar">
         <span class="info-label-kaisar">Nama Situs</span>
-        <span class="info-value-kaisar"><strong><?php echo $BRANDS; ?></strong></span>
+        <span class="info-value-kaisar"><strong>PENIDABET</strong></span>
     </div>
     
     <div class="info-row-kaisar">
@@ -37223,79 +37223,79 @@ body {
 
 <div class="section-container">
     <div class="description-section">
-        <h2 class="section-title">Artikel <?php echo $BRANDS; ?></h2>
+        <h2 class="section-title">Artikel PENIDABET</h2>
         <div class="description-content">
-Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"><?php echo $BRANDS; ?></a> memberikan pilihan permainan tengah malam yang menarik. <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"><?php echo $BRANDS; ?></a> mendukung maxwin spektakuler dengan proses WD super cepat.
+Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">PENIDABET</a> memberikan pilihan permainan tengah malam yang menarik. <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?">PENIDABET</a> mendukung maxwin spektakuler dengan proses WD super cepat.
         </div>
     </div>
     <div class="reviews-section">
-        <h2 class="section-title">Ulasan Pengguna <?php echo $BRANDS; ?></h2>
+        <h2 class="section-title">Ulasan Pengguna PENIDABET</h2>
         <div class="reviews-grid">
             <div class="review-card">
                 <div class="reviewer-name">Playtech Slot Gacor</div>
-                <div class="review-text"><?php echo $BRANDS; ?> memberikan pengalaman bermain Playtech Slot Gacor yang stabil di tengah malam dengan hasil maxwin yang cukup menarik.</div>
+                <div class="review-text">PENIDABET memberikan pengalaman bermain Playtech Slot Gacor yang stabil di tengah malam dengan hasil maxwin yang cukup menarik.</div>
             </div>
             
             <div class="review-card">
                 <div class="reviewer-name">Slot Gacor Tengah Malam</div>
-                <div class="review-text">Saya mencoba Playtech Slot Gacor di <?php echo $BRANDS; ?> dan proses WD super cepatnya membuat sesi tengah malam terasa lebih nyaman.</div>
+                <div class="review-text">Saya mencoba Playtech Slot Gacor di PENIDABET dan proses WD super cepatnya membuat sesi tengah malam terasa lebih nyaman.</div>
             </div>
             
             <div class="review-card">
                 <div class="reviewer-name">Maxwin Spektakuler</div>
-                <div class="review-text">Playtech Slot Gacor di <?php echo $BRANDS; ?> punya potensi maxwin spektakuler yang terasa natural saat dimainkan malam hari.</div>
+                <div class="review-text">Playtech Slot Gacor di PENIDABET punya potensi maxwin spektakuler yang terasa natural saat dimainkan malam hari.</div>
             </div>
             
             <div class="review-card">
                 <div class="reviewer-name">WD Super Cepat</div>
-                <div class="review-text"><?php echo $BRANDS; ?> berhasil menghadirkan Playtech Slot Gacor dengan fitur yang mendukung maxwin dan WD super cepat tanpa hambatan berarti.</div>
+                <div class="review-text">PENIDABET berhasil menghadirkan Playtech Slot Gacor dengan fitur yang mendukung maxwin dan WD super cepat tanpa hambatan berarti.</div>
             </div>
             <div class="review-card">
                 <div class="reviewer-name">Playtech Slot Maxwin</div>
-                <div class="review-text">Bermain Playtech Slot Gacor tengah malam di <?php echo $BRANDS; ?> memberikan sensasi maxwin spektakuler yang didukung proses WD super cepat.</div>
+                <div class="review-text">Bermain Playtech Slot Gacor tengah malam di PENIDABET memberikan sensasi maxwin spektakuler yang didukung proses WD super cepat.</div>
             </div>
             <div class="review-card">
-                <div class="reviewer-name"><?php echo $BRANDS; ?></div>
+                <div class="reviewer-name">PENIDABET</div>
                 <div class="review-text"><?php echo $BRANDS; ?> <?php echo $DESCRIPTION; ?></div>
             </div>
         </div>
     </div>
 
     <div class="faq-section">
-    <h2 class="section-title">FAQ <?php echo $BRANDS; ?></h2>
+    <h2 class="section-title">FAQ PENIDABET</h2>
     <div class="faq-container">
         <div class="faq-item">
-            <div class="faq-question">Apa yang membuat Playtech Slot Gacor di <?php echo $BRANDS; ?> unggul saat bermain tengah malam?</div>
+            <div class="faq-question">Apa yang membuat Playtech Slot Gacor di PENIDABET unggul saat bermain tengah malam?</div>
             <div class="faq-answer">
-                <p><?php echo $BRANDS; ?> menonjolkan Playtech Slot Gacor tengah malam dengan fitur yang mendukung maxwin spektakuler serta proses WD super cepat.</p>
+                <p>PENIDABET menonjolkan Playtech Slot Gacor tengah malam dengan fitur yang mendukung maxwin spektakuler serta proses WD super cepat.</p>
             </div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Bagaimana cara <?php echo $BRANDS; ?> memastikan WD super cepat pada Playtech Slot Gacor?</div>
+            <div class="faq-question">Bagaimana cara PENIDABET memastikan WD super cepat pada Playtech Slot Gacor?</div>
             <div class="faq-answer">
-                <p><?php echo $BRANDS; ?> mengoptimalkan sistem agar pemain bisa menikmati WD super cepat setelah meraih maxwin spektakuler di Playtech Slot Gacor tengah malam.</p>
+                <p>PENIDABET mengoptimalkan sistem agar pemain bisa menikmati WD super cepat setelah meraih maxwin spektakuler di Playtech Slot Gacor tengah malam.</p>
             </div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Apakah Playtech Slot Gacor <?php echo $BRANDS; ?> cocok dimainkan untuk target maxwin spektakuler?</div>
+            <div class="faq-question">Apakah Playtech Slot Gacor PENIDABET cocok dimainkan untuk target maxwin spektakuler?</div>
             <div class="faq-answer">
-                <p>Ya	 Playtech Slot Gacor di <?php echo $BRANDS; ?> dirancang untuk memberikan peluang maxwin spektakuler khususnya di sesi tengah malam dengan dukungan WD super cepat.</p>
+                <p>Ya	 Playtech Slot Gacor di PENIDABET dirancang untuk memberikan peluang maxwin spektakuler khususnya di sesi tengah malam dengan dukungan WD super cepat.</p>
             </div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Kapan waktu terbaik mencoba Playtech Slot Gacor di <?php echo $BRANDS; ?> untuk hasil maksimal?</div>
+            <div class="faq-question">Kapan waktu terbaik mencoba Playtech Slot Gacor di PENIDABET untuk hasil maksimal?</div>
             <div class="faq-answer">
-                <p>Sesi tengah malam di <?php echo $BRANDS; ?> sering menjadi pilihan pemain untuk meraih maxwin spektakuler pada Playtech Slot Gacor dengan proses WD super cepat.</p>
+                <p>Sesi tengah malam di PENIDABET sering menjadi pilihan pemain untuk meraih maxwin spektakuler pada Playtech Slot Gacor dengan proses WD super cepat.</p>
             </div>
         </div>
         
         <div class="faq-item">
-            <div class="faq-question">Apa keunggulan <?php echo $BRANDS; ?> dibanding platform lain untuk Playtech Slot Gacor?</div>
+            <div class="faq-question">Apa keunggulan PENIDABET dibanding platform lain untuk Playtech Slot Gacor?</div>
             <div class="faq-answer">
-                <p><?php echo $BRANDS; ?> menawarkan kombinasi Playtech Slot Gacor tengah malam yang mendukung maxwin spektakuler serta WD super cepat yang lebih responsif.</p>
+                <p>PENIDABET menawarkan kombinasi Playtech Slot Gacor tengah malam yang mendukung maxwin spektakuler serta WD super cepat yang lebih responsif.</p>
             </div>
         </div>
     </div>
@@ -37311,7 +37311,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
             </svg>
            </span>
            <div class='tp-text-note__body'>
-            <p class='tp-text-note__text'> Nikmati <span class="strong">Bonus Deposit 5%</span> Bagi Pemain Setia <span class="strong"><?php echo $BRANDS; ?>!</p>
+            <p class='tp-text-note__text'> Nikmati <span class="strong">Bonus Deposit 5%</span> Bagi Pemain Setia <span class="strong">PENIDABET!</p>
            </div>
           </div>
           <div class='m-design__tip-container jsProductTips' style=''></div>
@@ -37326,7 +37326,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
         </div>
        </div>
        <div class='m-design__ratings'>
-        <h3 class='m-design__ratings-heading'>MARKET SITUS <?php echo $BRANDS; ?></h3>
+        <h3 class='m-design__ratings-heading'>MARKET SITUS PENIDABET</h3>
         <div class='m-design__ratings-services'>
          <div class='m-design__ratings-service'>
           <div class='m-design__ratings-service-name'>Murah!</div>
@@ -37350,7 +37350,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
           <div class='m-design__ratings-details'>4.9 out of 5</div>
          </div>
          <div class='m-design__ratings-service'>
-          <div class='m-design__ratings-service-name'>SITUS <?php echo $BRANDS; ?></div>
+          <div class='m-design__ratings-service-name'>SITUS PENIDABET</div>
           <div class='m-design__ratings-service-stars'>
            <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
             <img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false">
@@ -37706,7 +37706,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            <div class='m-footer__trusted-badges'>
             <figure class='m-footer__guarantee-image'>
              <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-              <img src="https://s13.gifyu.com/images/bugog.png" alt="SITUS <?php echo $BRANDS; ?>" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
+              <img src="https://s13.gifyu.com/images/bugog.png" alt="SITUS PENIDABET" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
              </span>
             </figure>
             <div class='m-footer__trusted-text'>
@@ -37716,7 +37716,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
              </div>
              <p class='m-footer__guarantee-link'>
               <a target="_blank" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link link__cta link__cta--on-dark link--default">
-               <span class='link__content'> SITUS <?php echo $BRANDS; ?> </span>
+               <span class='link__content'> SITUS PENIDABET </span>
               </a>
              </p>
             </div>
@@ -37797,8 +37797,8 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Designers </span>
                </a>
-               <a data-gtm-footer-link-text="Newest SITUS <?php echo $BRANDS; ?>" style="--animation-order: " href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link gtmFooterLink link-collection__link link--1 link--default">
-                <span class='link__content'> Newest SITUS <?php echo $BRANDS; ?> </span>
+               <a data-gtm-footer-link-text="Newest SITUS PENIDABET" style="--animation-order: " href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link gtmFooterLink link-collection__link link--1 link--default">
+                <span class='link__content'> Newest SITUS PENIDABET </span>
                </a>
                <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Tag Directory </span>
@@ -38069,7 +38069,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                </span>
                <span class='link__content'> animals </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="/SITUS <?php echo $BRANDS; ?>/anime" href="/SITUS <?php echo $BRANDS; ?>/anime" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="/SITUS PENIDABET/anime" href="/SITUS PENIDABET/anime" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -38077,7 +38077,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                </span>
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS <?php echo $BRANDS; ?>/drinks" href="/SITUS <?php echo $BRANDS; ?>/drinks" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS PENIDABET/drinks" href="/SITUS PENIDABET/drinks" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -38085,7 +38085,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                </span>
                <span class='link__content'> drinks </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="fantasy" data-href="/SITUS <?php echo $BRANDS; ?>/fantasy" href="/SITUS <?php echo $BRANDS; ?>/fantasy" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="fantasy" data-href="/SITUS PENIDABET/fantasy" href="/SITUS PENIDABET/fantasy" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -38093,7 +38093,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                </span>
                <span class='link__content'> fantasy </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS <?php echo $BRANDS; ?>/food" href="/SITUS <?php echo $BRANDS; ?>/food" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS PENIDABET/food" href="/SITUS PENIDABET/food" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -38178,7 +38178,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
               <div class="link-collection m-tray-shop-secondary__links">
                <div class="link-collection__body">
                 </a>
-                <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="New Tees on Sale" data-href="/SITUS <?php echo $BRANDS; ?>?sort=newest" style="--animation-order: " href="/SITUS <?php echo $BRANDS; ?>?sort=newest" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
+                <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="New Tees on Sale" data-href="/SITUS PENIDABET?sort=newest" style="--animation-order: " href="/SITUS PENIDABET?sort=newest" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
                  <span class='link__content'> New Tees on Sale </span>
                 </a>
                 <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Newest Designers" data-href="/newest-designers" style="--animation-order: " href="/newest-designers" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
@@ -38252,8 +38252,8 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
             <div class='m-tray-shop-secondary__content'>
              <h3>Adult Apparel</h3>
              <div class='m-tray-shop-secondary__links'>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS <?php echo $BRANDS; ?>" data-href="/SITUS <?php echo $BRANDS; ?>" href="/SITUS <?php echo $BRANDS; ?>">
-               <h4 class="h--no-s">SITUS <?php echo $BRANDS; ?></h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS PENIDABET" data-href="/SITUS PENIDABET" href="/SITUS PENIDABET">
+               <h4 class="h--no-s">SITUS PENIDABET</h4>
               </a>
               <a class="m-tray-shop-secondary__link--new" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shorts" data-href="/shorts" href="/shorts">
                <h4 class="h--no-s">Shorts</h4>
@@ -38262,8 +38262,8 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Hoodies" data-href="/hoodie" href="/hoodie">
                <h4 class="h--no-s">Hoodies</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Long Sleeve SITUS <?php echo $BRANDS; ?>" data-href="/long-sleeve-SITUS <?php echo $BRANDS; ?>" href="/long-sleeve-SITUS <?php echo $BRANDS; ?>">
-               <h4 class="h--no-s">Long Sleeve SITUS <?php echo $BRANDS; ?></h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Long Sleeve SITUS PENIDABET" data-href="/long-sleeve-SITUS PENIDABET" href="/long-sleeve-SITUS PENIDABET">
+               <h4 class="h--no-s">Long Sleeve SITUS PENIDABET</h4>
               </a>
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Crewneck Sweatshirts" data-href="/crewneck-sweatshirt" href="/crewneck-sweatshirt">
                <h4 class="h--no-s">Crewneck Sweatshirts</h4>
@@ -38271,22 +38271,22 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Tank Tops" data-href="/tank-top" href="/tank-top">
                <h4 class="h--no-s">Tank Tops</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Baseball SITUS <?php echo $BRANDS; ?>" data-href="/baseball-SITUS <?php echo $BRANDS; ?>" href="/baseball-SITUS <?php echo $BRANDS; ?>">
-               <h4 class="h--no-s">Baseball SITUS <?php echo $BRANDS; ?></h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Baseball SITUS PENIDABET" data-href="/baseball-SITUS PENIDABET" href="/baseball-SITUS PENIDABET">
+               <h4 class="h--no-s">Baseball SITUS PENIDABET</h4>
               </a>
              </div>
             </div>
             <div class='m-tray-shop-secondary__content'>
              <h3>Kids Apparel</h3>
              <div class='m-tray-shop-secondary__links'>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS <?php echo $BRANDS; ?>" data-href="/kids-SITUS <?php echo $BRANDS; ?>" href="/kids-SITUS <?php echo $BRANDS; ?>">
-               <h4 class="h--no-s">Kids SITUS <?php echo $BRANDS; ?></h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS PENIDABET" data-href="/kids-SITUS PENIDABET" href="/kids-SITUS PENIDABET">
+               <h4 class="h--no-s">Kids SITUS PENIDABET</h4>
               </a>
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Hoodie" data-href="/kids-hoodies" href="/kids-hoodies">
                <h4 class="h--no-s">Kids Hoodie</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Long Sleeve SITUS <?php echo $BRANDS; ?>" data-href="/kids-long-sleeve-SITUS <?php echo $BRANDS; ?>" href="/kids-long-sleeve-SITUS <?php echo $BRANDS; ?>">
-               <h4 class="h--no-s">Kids Long Sleeve SITUS <?php echo $BRANDS; ?></h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Long Sleeve SITUS PENIDABET" data-href="/kids-long-sleeve-SITUS PENIDABET" href="/kids-long-sleeve-SITUS PENIDABET">
+               <h4 class="h--no-s">Kids Long Sleeve SITUS PENIDABET</h4>
               </a>
              </div>
             </div>
@@ -38403,7 +38403,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                <span class='link__content'>
                 <picture>
                  <source srcset="https://s13.gifyu.com/images/bugog.png" type="image/png">
-                 <img class="vc-header-logo__image" src="https://s13.gifyu.com/images/bugog.png" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SITUS <?php echo $BRANDS; ?> Logo">
+                 <img class="vc-header-logo__image" src="https://s13.gifyu.com/images/bugog.png" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SITUS PENIDABET Logo">
                 </picture>
                </span>
               </a>
@@ -38467,9 +38467,9 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
             <div class="m-tray-shop__popular-products">
              <h3>Popular Products</h3>
              <div class='m-tray-shop__popular-products-grid'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS <?php echo $BRANDS; ?>" data-href="/SITUS <?php echo $BRANDS; ?>" href="/SITUS <?php echo $BRANDS; ?>" class="link m-tray-shop__popular-product tshirt">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS PENIDABET" data-href="/SITUS PENIDABET" href="/SITUS PENIDABET" class="link m-tray-shop__popular-product tshirt">
                <span class='link__content'>
-                <span>SITUS <?php echo $BRANDS; ?></span>
+                <span>SITUS PENIDABET</span>
                </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shorts" data-href="/shorts" href="/shorts" class="link m-tray-shop__popular-product shorts m-tray-shop__popular-product--new">
@@ -38487,9 +38487,9 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                 <span>Hats</span>
                </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS <?php echo $BRANDS; ?>" data-href="/kids-SITUS <?php echo $BRANDS; ?>" href="/kids-SITUS <?php echo $BRANDS; ?>" class="link m-tray-shop__popular-product kids">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS PENIDABET" data-href="/kids-SITUS PENIDABET" href="/kids-SITUS PENIDABET" class="link m-tray-shop__popular-product kids">
                <span class='link__content'>
-                <span>Kids SITUS <?php echo $BRANDS; ?></span>
+                <span>Kids SITUS PENIDABET</span>
                </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Stickers" data-href="/stickers" href="/stickers" class="link m-tray-shop__popular-product sticker">
@@ -38530,7 +38530,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Sports" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/img/<?php echo $BRANDS; ?>-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/img/<?php echo $BRANDS; ?>-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/img/PENIDABET-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/img/PENIDABET-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sci-fi </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Vintage" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
@@ -38539,17 +38539,17 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" title="Animals" href="https://campus.acadp.org.ar/<?php echo $PAGE; ?" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> animals </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS <?php echo $BRANDS; ?>/drinks" title="Drinks" href="/SITUS <?php echo $BRANDS; ?>/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS PENIDABET/drinks" title="Drinks" href="/SITUS PENIDABET/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> drinks </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS <?php echo $BRANDS; ?>/food" title="Food" href="/SITUS <?php echo $BRANDS; ?>/food" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS PENIDABET/food" title="Food" href="/SITUS PENIDABET/food" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="politics" data-href="/SITUS <?php echo $BRANDS; ?>/politics" title="Politics" href="/SITUS <?php echo $BRANDS; ?>/politics" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="politics" data-href="/SITUS PENIDABET/politics" title="Politics" href="/SITUS PENIDABET/politics" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> politics </span>
               </a>
              </div>
-             <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="All Popular Designs" data-href="/SITUS <?php echo $BRANDS; ?>?sort=popular" href="/SITUS <?php echo $BRANDS; ?>?sort=popular" class="link m-tray-shop__popular-topics-cta link__cta link__cta--on-dark link--default">
+             <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="All Popular Designs" data-href="/SITUS PENIDABET?sort=popular" href="/SITUS PENIDABET?sort=popular" class="link m-tray-shop__popular-topics-cta link__cta link__cta--on-dark link--default">
               <span class='link__content'> All Popular Designs </span>
              </a>
             </div>
@@ -38608,7 +38608,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            <div class='m-browse-preferences__h'>Update Your Browsing Preferences</div>
            <form action="/browse_preferences/change" accept-charset="UTF-8" method="post">
             <input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off" />
-            <input value="{&quot;design_slug&quot;:&quot;SITUS <?php echo $BRANDS; ?>&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
+            <input value="{&quot;design_slug&quot;:&quot;SITUS PENIDABET&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
             <div class='form__group'>
              <div class='form__field'>
               <label class="label--heavy" for="country">Shipping Country:</label>
@@ -41167,7 +41167,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            ["100% combed ringspun cotton. The perfect fabric for a graphic tee and the softest in the business. (Due to product availability, cotton type may vary for 2XL and 3XL sizes)", [3408, 3403, 3404, 2478, 3452, 3498, 3417, 3252, 3405, 3460, 3465, 3454, 2637, 3406, 2205, 3411, 3407, 3421, 3416, 881, 3412, 3414, 3261, 3413, 3479, 3127, 3438, 3445, 3418, 3410, 3469, 3436, 3439, 2415, 3450, 3419, 3437, 3424, 3495, 3420, 3427, 3422, 2558, 2582, 3423, 3448, 3441, 3444, 3426, 364, 2368, 3253, 3428, 3429, 3, 3462, 3464, 7, 3259, 3430, 3432, 3263, 3264, 3265, 2122, 3256, 3266, 2500, 2501, 3254, 3260, 1, 357, 3440, 3434, 3258, 3262, 3255, 2264, 3210, 3453, 2191, 3457, 3435, 2206, 329, 4, 3257, 3451, 1680, 540, 1709, 2310, 3463, 3497, 2272, 3442, 3446, 374, 377, 875, 20, 3449, 2193, 2165, 2305, 2121, 3141, 3458, 2592, 2306, 3171, 3456, 2125, 3455, 2133, 3466, 3467, 358, 376, 3461, 3468, 3475, 3476, 2442, 2451, 3493, 3480, 2360, 3491, 1334, 3425, 22, 341, 3209, 378, 3490, 3481, 441, 2593, 389, 391, 3487, 433, 436, 421, 383, 3203, 3431, 3488, 3494, 1967, 10, 315, 316, 366, 1361, 1344, 3489, 344, 3496, 382, 348, 2151, 2154, 1704, 3134, 369, 3471, 3133, 3096, 1808, 2192, 352, 1348, 3443, 3478, 2331, 2175, 3215, 2569, 3409, 3160, 3169, 1710, 2489, 21, 2471, 3415, 3459, 3177, 3091, 854, 1700, 3447, 2388, 878, 2440, 3433, 2581, 1711, 1723, 3319, 3482, 2256, 400, 887, 892, 855, 2647, 1811, 327, 328, 2083, 3486, 3193, 360, 1819, 3470, 2549, 2187, 3183, 3214, 3472, 2598, 2315, 2176, 415, 861, 3098, 870, 3473, 3484, 3485, 396, 2319, 406, 2482, 443, 2487, 2333, 425, 405, 3474, 3477, 2419, 2421, 2159, 3492, 2586, 2248, 2201, 2438, 2445, 15, 2252, 3483, 1329, 2311, 2203, 2194, 981, 2330, 1718, 402, 2615, 2464, 535, 3217, 883, 2443, 2507, 3220, 323, 395, 2640, 340, 1335, 2186, 2158, 2600, 2117, 2309, 3227, 2155, 446, 2490, 543, 2576, 2538, 2334, 858, 2146, 372, 373, 2138, 848, 2163, 2184, 1726, 2078, 866, 2450, 2589, 2157, 370, 347, 2088, 445, 365, 2387, 2105, 1720, 2607, 2323, 2324, 2611, 2551, 2623, 423, 1722, 427, 2475, 435, 3185, 3197, 1688, 1679, 2119, 2204, 3224, 2325, 2266, 3181, 2127, 384, 2400, 11, 2250, 324, 3317, 3139, 3128, 3150, 1695, 2150, 2337, 2190, 1717, 3204, 2136, 2553, 2327, 2536, 2328, 2329, 1729, 1714, 1716, 2179, 1727, 2614, 3206, 2483, 354, 2316, 2537, 3189, 542, 417, 2617, 2468, 2644, 2539, 2477, 2317, 2178, 2506, 404, 371, 2452, 444, 420, 403, 2164, 3205, 3213, 2166, 2167, 3143, 3156, 2253, 2453, 322, 2454, 2168, 437, 2437, 2263, 439, 2197, 2199, 3225, 2363, 2312, 381, 428, 3151, 3152, 3163, 3178, 339, 426, 412, 3173, 3093, 342, 3132, 2338, 3154, 3155, 3161, 3162, 3175, 3174, 9, 3180, 429, 431, 2354, 2375, 896, 898, 3137, 2441, 1671, 2444, 2448, 3182, 2591, 3130, 3153, 2152, 2447, 1678, 1681, 1697, 1699, 1691, 1701, 346, 2505, 2472, 1815, 2470, 2484, 1818, 1724, 2473, 3195, 3186, 2547, 2476, 2616, 3148, 531, 1735, 2474, 432, 857, 353, 533, 2479, 3140, 2579, 859, 1814, 2572, 14, 534, 2599, 536, 537, 2596, 2605, 2604, 865, 867, 2603, 3179, 2610, 2620, 2609, 3149, 351, 3212, 3216, 846, 3187, 1737, 13, 3226, 3136, 1359, 1328, 359, 1352, 1349, 1351, 16, 3230, 3198, 982, 397, 393, 2307, 1707, 2379, 541, 2087, 2207, 12, 17, 3231, 1673, 3190, 3188, 3168, 2298, 2300, 375, 3223, 2079, 2095, 2077, 3176, 3147, 2597, 1712, 2313, 2134, 1713, 2486, 2200, 2097, 2143, 2101, 1694, 1683, 1674, 3138, 1676, 847, 960, 2102, 2104, 1733, 1734, 2335, 2622, 2336, 2126, 2355, 1732, 2267, 2185, 3170, 330, 5, 2156, 2217, 2275, 2188, 860, 2608, 2270, 2265, 2552, 2189, 3228, 6, 2209, 2282, 434, 442, 3158, 864, 3144, 2278, 2449, 2221, 3191, 3192, 2283, 3229, 3159, 2601, 2602, 1336, 3194, 856, 2318, 3089, 2460, 2174, 3157, 2461, 2462, 2463, 862, 2177, 416, 3211, 3184, 2251, 1333, 3196, 3146, 863, 2465, 18, 418, 532, 2180, 2181, 2182, 885, 3222, 2466, 2467, 2469, 2183, 977, 2220, 318, 3164, 3199, 3200, 2380, 2403, 3202, 1346, 1347, 3207, 3221, 317, 3208, 3219, 3165, 2351, 984, 2352, 2408, 2424, 2481, 438, 983, 2195, 2196, 2365, 3201, 440, 2198, 2485, 3218, 3166, 2590, 2304, 1705, 2412, 2357, 2376, 3092, 388, 394, 2361, 2353, 2429, 2594, 2575, 2308, 345, 2381, 3318, 2382, 2386, 2414, 399, 2322, 2369, 2404, 2613, 1666, 3135, 19, 3129, 3142, 3131, 2, 321, 363, 2606, 3145, 1693, 2502, 2559, 401, 3172, 3167, 2587, 2577, 2578, 2410, 2436, 398, 2432, 2406, 2416, 430, 392, 2641, 2585, 2420, 2545, 422, 424, 2417, 978, 386, 976, 979, 2497, 2570, 2595, 2493, 2480, 1343, 1331, 413, 2540, 414, 3090, 2544, 2580, 2557, 852, 853, 2534, 888, 889, 890, 876, 2639, 877, 874, 880, 871, 872, 873, 897, 893, 899, 419, 1342, 390, 2624, 3097, 894, 895, 3094, 1354, 1357, 1358, 1330, 1353, 1356, 2550, 2588, 850, 868, 3095, 1345, 1332, 1360, 1355, 1350, 1685, 2541, 2560, 2565, 2567, 886, 869, 1327, 1698, 1692, 900, 851, 882, 1687, 1677, 1708, 1668, 2584, 2573, 1719, 849, 879, 1684, 1686, 1682, 884, 1670, 891, 1731, 1730, 2619, 387, 1696, 2621, 2148, 2261, 2286, 1703, 1706, 2288, 2135, 2268, 2144, 2112, 2093, 2116, 2115, 2123, 2128, 2290, 2124, 2153, 2208, 2145, 2297, 2299, 2289, 2292, 2295, 2215, 2301, 2302, 2279, 2274, 2434, 2285, 2291, 2218, 2287, 2366, 2294, 2284, 2262, 2273, 1715, 1689, 1675, 1667, 2356, 2269, 1669, 2439, 2254, 2255, 1672, 1690, 2384, 2259, 2258, 1736, 1721, 1816, 1817, 1809, 1810, 1812, 1725, 2358, 2359, 2418, 1728, 2378, 2561, 1813, 2583, 2409, 2390, 2564, 2612, 2433, 2422, 2391, 2405, 2646, 2638, 2546, 2402, 2398, 2413, 2430, 2431, 2399, 2401, 2407, 2435, 2504, 2446, 2423, 2492, 2494, 2503, 2495, 2542, 2618, 2554, 2555, 2556, 2271, 2321, 2320, 2326, 2571, 2092, 2090, 2543, 2103, 2566, 2132, 2202, 2131, 2089, 2098, 2214, 2161, 2113, 2137, 2149, 2389, 2216, 2096, 2099, 2276, 2081, 2100, 2094, 2118, 2084, 2080, 2086, 2160, 2091, 2211, 2210, 2130, 2120, 2147, 2162, 2488, 2281, 2548, 2562, 2373, 2364, 2367, 2332, 2362, 2293, 2372, 2257, 2280, 2383, 2377, 2491, 2374, 2277, 2496, 2260, 2370, 2385, 2648, 2314, 2411, 2643, 2645, 2642, 2563, 2568, 2574, 2219, 1702, 2296, 2303, 2114, 2082, 2129]],
            ["100% combed cotton. A feminine cut featuring a v-neck in extended sizes that are all designed to wear, wash and age well.", [2667, 2660, 2662, 2663, 2664, 2673, 2655, 2656, 2657, 2674, 2659, 2661, 2668, 2669, 2671, 2672, 2658, 2665, 2666, 2670]],
            ["Moisture management/antimicrobial performance fabric, 100% Polyester", [3291, 3271, 3296, 3280, 3295, 3278, 3287, 3315, 3294, 3293, 3313, 3268, 3273, 3272, 3269, 3292, 3279, 3285, 3281, 3267, 3283, 3286, 3289, 3290, 3297, 3270, 3301, 3312, 3298, 3314, 3274, 3277, 3288, 3311, 3299, 3276, 3275, 3284, 3302, 3282, 3300, 3316]],
-           ["100% combed ringspun cotton (Heather is a cotton/poly blend) with a heavier weight than the Classic SITUS <?php echo $BRANDS; ?> for a timeless fit. The perfect fabric for a graphic tee in a standard cut up to 5XL - and still the softest in the business.", [2878, 2870, 2845, 2869, 2858, 2879, 2856, 2863, 2872, 2860, 2865, 2874, 2868, 2885, 2887, 2883, 2877, 2847, 2866, 2881, 2864, 2875, 2876, 2855, 2859, 2850, 2880, 2890, 2886, 2891, 2889, 2857, 2841, 2849, 2853, 2873, 2871, 2836, 2867, 2851, 2852, 2854, 2861, 2862, 2842, 2882, 2884, 2840, 2843, 2846, 2844, 2839, 2888, 2837, 2838, 2848]],
+           ["100% combed ringspun cotton (Heather is a cotton/poly blend) with a heavier weight than the Classic SITUS PENIDABET for a timeless fit. The perfect fabric for a graphic tee in a standard cut up to 5XL - and still the softest in the business.", [2878, 2870, 2845, 2869, 2858, 2879, 2856, 2863, 2872, 2860, 2865, 2874, 2868, 2885, 2887, 2883, 2877, 2847, 2866, 2881, 2864, 2875, 2876, 2855, 2859, 2850, 2880, 2890, 2886, 2891, 2889, 2857, 2841, 2849, 2853, 2873, 2871, 2836, 2867, 2851, 2852, 2854, 2861, 2862, 2842, 2882, 2884, 2840, 2843, 2846, 2844, 2839, 2888, 2837, 2838, 2848]],
            ["100% Cotton. Lightweight with the perfect cut. Fabric drapes loosely across body for a comfortable, relaxed fit. Due to availability, some colors may be a poly-viscose blend.", [1761, 1762, 1778, 1779, 1772, 1773, 1782, 1758, 1763, 1764, 1766, 1759, 1760, 1774, 1768, 1770, 1771, 1775, 1776, 1777, 1781, 1780, 1765, 1767, 1769]],
            ["Polyester/cotton/rayon blend. A lighter, super soft tee with stretch.", [1820, 1008, 1049, 1019, 836, 1010, 1027, 1018, 837, 844, 806, 823, 1046, 1001, 830, 831, 993, 998, 1015, 1037, 988, 808, 1003, 994, 809, 1011, 989, 990, 1006, 1005, 995, 997, 999, 1007, 1009, 1016, 1017, 1020, 815, 1038, 817, 1031, 1024, 1025, 1028, 1034, 812, 810, 811, 816, 820, 821, 828, 814, 818, 813, 841, 839, 843, 842, 1021, 1022, 834, 835, 838, 840, 845, 1026, 833, 1048, 1030, 1032, 1033, 1040, 1041, 1042, 1035, 1029, 1023, 1036, 1039, 1045, 1047, 807, 1002, 1004, 1012, 1013, 1014, 822, 1000, 829, 832, 824, 825, 827, 826, 1043, 1044, 819, 992, 996, 985, 986, 987, 991]],
            ["100% combed cotton. The perfect fabric for a graphic tee and the softest in the business.", [3358, 3344, 3351, 3364, 3355, 3338, 3367, 3352, 3365, 3342, 3345, 3349, 3369, 3348, 3361, 3343, 3363, 3368, 3370, 3346, 3347, 3353, 3371, 3340, 3341, 3362, 3337, 3359, 3350, 3356, 3339, 3336, 3354, 3366, 3360, 3357]],
@@ -41175,7 +41175,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            ["100% combed cotton. A feminine cut in extended sizes that are all designed to wear, wash and age well.", [1924, 1925, 1937, 1932, 1933, 1928, 1931, 1935, 1934, 1939, 1941, 1926, 1927, 1929, 1930, 1936, 1922, 1923, 1938, 1940]],
            ["60% Cotton / 40% Polyester. A heathered, feminine cut in extended sizes that are all designed to wear, wash and age well.\r\n", [1943, 1945, 1942, 1944, 2676, 2677, 2678, 2675]],
            ["Cotton/Poly blend. Heathered versions of our classic tee colors -- the softest shirts in the business and the perfect weight for a graphic tee.", [916, 2340, 2239, 2228, 2141, 2349, 2519, 2527, 2227, 2508, 2347, 2230, 923, 902, 925, 2427, 2627, 2525, 2139, 913, 2426, 2142, 2229, 2234, 2428, 2509, 2344, 2345, 1750, 2517, 2532, 901, 1751, 2632, 2633, 912, 2343, 2231, 2510, 2629, 2514, 2516, 2233, 2235, 926, 929, 930, 2242, 903, 905, 921, 2243, 2342, 2246, 904, 906, 917, 918, 911, 908, 909, 2526, 2350, 2520, 2528, 2530, 2531, 2631, 2513, 2521, 2523, 2515, 2512, 2628, 2518, 919, 920, 922, 924, 914, 915, 907, 910, 927, 928, 2533, 2625, 1746, 2626, 2240, 2238, 2630, 2222, 2237, 2241, 2244, 2524, 1753, 1748, 1752, 2339, 1747, 1749, 1756, 1757, 1754, 1755, 2511, 2529, 2247, 2232, 2140, 2223, 2224, 2245, 2236, 2522, 2225, 2226, 2348, 2425, 2346, 2341, 2634, 2636, 2635]],
-           ["60% Organic Cotton, 40% Recycled Poly RPET - approximately 4 recycled RPET bottles are used per shirt. A heavier weight than the Classic SITUS <?php echo $BRANDS; ?>, for enhanced comfort and durability. Your favorite SITUS <?php echo $BRANDS; ?>, made better. ", [2954, 2959, 2986, 2981, 2988, 2976, 2956, 2977, 2975, 2978, 2958, 2991, 2992, 2960, 2982, 2989, 2993, 2967, 2971, 2973, 2974, 2980, 2952, 2969, 2984, 2987, 2970, 2972, 2955, 2962, 2957, 2985, 2968, 2953, 2983, 2965, 2979, 2961, 2963, 2990, 2964, 2966]],
+           ["60% Organic Cotton, 40% Recycled Poly RPET - approximately 4 recycled RPET bottles are used per shirt. A heavier weight than the Classic SITUS PENIDABET, for enhanced comfort and durability. Your favorite SITUS PENIDABET, made better. ", [2954, 2959, 2986, 2981, 2988, 2976, 2956, 2977, 2975, 2978, 2958, 2991, 2992, 2960, 2982, 2989, 2993, 2967, 2971, 2973, 2974, 2980, 2952, 2969, 2984, 2987, 2970, 2972, 2955, 2962, 2957, 2985, 2968, 2953, 2983, 2965, 2979, 2961, 2963, 2990, 2964, 2966]],
            ["100% Combed Ring-Spun Cotton. A heavyweight, breathable fabric with a smooth, comfortable feel. Designed with a relaxed, boxy fit and mid-length hem for a modern, easygoing silhouette.", [3535, 3500, 3526, 3542, 3529, 3510, 3518, 3507, 3537, 3539, 3538, 3504, 3540, 3520, 3511, 3544, 3519, 3506, 3546, 3534, 3521, 3523, 3508, 3516, 3499, 3528, 3545, 3531, 3524, 3536, 3502, 3527, 3503, 3532, 3543, 3522, 3515, 3514, 3530, 3513, 3505, 3512]],
            ["90% Combed Ring-Spun Cotton, 10% Polyester. A heavyweight, breathable fabric with a smooth, comfortable feel. Designed with a relaxed, boxy fit and mid-length hem for a modern, easygoing silhouette.", [3541, 3517, 3533, 3509, 3525, 3501]],
            ["100% Combed Ring Spun Cotton. This heavyweight, breathable fabric offers a smooth, comfortable feel. Designed with a relaxed fit, and drop shoulder for an easy, laid-back look. ", [2074, 1848, 2068, 1838, 1837, 1836, 1825, 1849, 2072, 3024, 3027, 3035, 1831, 1842, 3032, 1830, 1827, 1845, 1841, 1846, 1832, 1833, 1835, 2075, 3029, 3031, 3018, 3019, 2069, 3028, 3033, 3022, 3030, 1840, 1844, 1847, 1828, 1839, 1834, 1843, 1829, 1826, 3023, 3040, 2076, 2070, 2071, 2073, 3041, 3036, 3025, 3026, 3021, 3037, 3038, 3020, 3034, 3039, 3042]],
@@ -41189,7 +41189,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
           }, {
            "type": "tee_outline",
            "header": "TEE TIP!",
-           "tip": "Many customers prefer to order a size or two up for the Tri-Blend SITUS <?php echo $BRANDS; ?>",
+           "tip": "Many customers prefer to order a size or two up for the Tri-Blend SITUS PENIDABET",
            "product_ids": [806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1820, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011]
           }, {
            "type": "tee_outline",
@@ -42022,7 +42022,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            "store_name": null,
            "store_id": null,
            "xcfb": "1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d",
-           "canvas": "SITUS <?php echo $BRANDS; ?>",
+           "canvas": "SITUS PENIDABET",
            "canvas_group": "Adult Apparel",
            "canvas_id": 1,
            "design_id": 74165272,
@@ -42036,11 +42036,11 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
            "owner_username": "Hey siriusly",
            "price_usd": 23.0,
            "product_color": "Red",
-           "product_description": "Classic SITUS <?php echo $BRANDS; ?>, Male Fit | Small, Red",
+           "product_description": "Classic SITUS PENIDABET, Male Fit | Small, Red",
            "product_gender": "Male Fit",
            "product_id": 357,
            "product_size": "S",
-           "product_style": "Classic SITUS <?php echo $BRANDS; ?>",
+           "product_style": "Classic SITUS PENIDABET",
            "search_type": "default"
           });
          }
@@ -42048,7 +42048,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
        </script>
 
        <style>
-            .footer-floating-<?php echo $BRANDS; ?> {
+            .footer-floating-PENIDABET {
                 position: fixed;
                 bottom: 18px;
                 left: 50%;
@@ -42067,7 +42067,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
             }
 
             
-            .footer-btn-<?php echo $BRANDS; ?> {
+            .footer-btn-PENIDABET {
                 flex: 1;
                 min-width: 0;
                 display: flex;
@@ -42090,27 +42090,27 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                 white-space: nowrap;
             }
             
-            .footer-btn-<?php echo $BRANDS; ?> img {
+            .footer-btn-PENIDABET img {
                 width: 18px;
                 height: 18px;
                 flex-shrink: 0;
                 filter: drop-shadow(0 0 5px rgba(255, 0, 0, 0.8));
             }
             
-            .footer-btn-<?php echo $BRANDS; ?>.login {
+            .footer-btn-PENIDABET.login {
                 animation-delay: 0.3s;
             }
-            .footer-btn-<?php echo $BRANDS; ?>.daftar {
+            .footer-btn-PENIDABET.daftar {
                 animation-delay: 0.6s;
             }
-            .footer-btn-<?php echo $BRANDS; ?>.link {
+            .footer-btn-PENIDABET.link {
                 animation-delay: 0.9s;
             }
-            .footer-btn-<?php echo $BRANDS; ?>.chat {
+            .footer-btn-PENIDABET.chat {
                 animation-delay: 1.2s;
             }
             
-            .footer-btn-<?php echo $BRANDS; ?>:hover {
+            .footer-btn-PENIDABET:hover {
                 background: gold;
                 box-shadow:
                     0 0 15px #ffd700,
@@ -42119,7 +42119,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
                 transform: translateY(-6px) scale(1.05);
             }
             
-            .footer-btn-<?php echo $BRANDS; ?>:active {
+            .footer-btn-PENIDABET:active {
                 background: linear-gradient(135deg, #00226f, #00226f);
                 color: #000;
                 border-color: #ffd700;
@@ -42141,48 +42141,48 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
             }
             
             @media (max-width: 1024px) {
-                .footer-floating-<?php echo $BRANDS; ?> {
+                .footer-floating-PENIDABET {
                     flex-wrap: wrap;
                 }
-                .footer-btn-<?php echo $BRANDS; ?> {
+                .footer-btn-PENIDABET {
                     flex: 1 1 calc(50% - 10px);
                 }
             }
             @media (max-width: 600px) {
-                .footer-btn-<?php echo $BRANDS; ?> {
+                .footer-btn-PENIDABET {
                     flex: 1 1 100%;
                     font-size: 13px;
                     padding: 10px 12px;
                 }
-                .footer-btn-<?php echo $BRANDS; ?> img {
+                .footer-btn-PENIDABET img {
                     width: 16px;
                     height: 16px;
                 }
             }
         </style>
         
-        <div class="footer-floating-<?php echo $BRANDS; ?>">
-        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-<?php echo $BRANDS; ?> promo" target="_blank"
+        <div class="footer-floating-PENIDABET">
+        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-PENIDABET promo" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://s13.gifyu.com/images/bugDB.jpg" alt="PROMOSI"> PROMO
                 </a>
 
-        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-<?php echo $BRANDS; ?>" target="_blank"
+        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-PENIDABET" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://s13.gifyu.com/images/bugDB.jpg" alt="Login"> LOGIN
                 </a>
 
-        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-<?php echo $BRANDS; ?> daftar" target="_blank"
+        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-PENIDABET daftar" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://s13.gifyu.com/images/bugDB.jpg" alt="Daftar"> DAFTAR
                 </a>
 
-        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-<?php echo $BRANDS; ?> link" target="_blank"
+        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-PENIDABET link" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://s13.gifyu.com/images/bugDB.jpg" alt="Link Alternatif"> LINK ALTERNATIF
                 </a>
 
-        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-<?php echo $BRANDS; ?> chat" target="_blank"
+        <a href="https://campusacadp.pages.dev/<?php echo $BRANDS; ?>.html" class="footer-btn-PENIDABET chat" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://s13.gifyu.com/images/bugDB.jpg" alt="Live Chat"> LIVE CHAT
                 </a>
@@ -42946,7 +42946,7 @@ Playtech slot gacor di <a href="https://campus.acadp.org.ar/<?php echo $PAGE; ?"
 
       <div class="popup-footer">
       <?php echo $BRANDS; ?> 🫆 <?php echo $TITLE; ?><br/>
-        <span style="color:#e30202;font-weight:600;text-shadow:0 0 5px rgba(227,2,2,.5);">© 2026 All rights reserved | <?php echo $BRANDS; ?></span>
+        <span style="color:#e30202;font-weight:600;text-shadow:0 0 5px rgba(227,2,2,.5);">© 2026 All rights reserved | PENIDABET</span>
       </div>
     </div>
   </div>
